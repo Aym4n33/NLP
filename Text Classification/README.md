@@ -52,6 +52,8 @@ This project implements a **Naive Bayes classifier** for text classification, de
 - **Weighted Avg**: Precision = 97%, Recall = 97%, F1-Score = 97%
 
 ---
+- **GitHub**: [Aym4n33](https://github.com/Aym4n33)
+
 
 ## Usage
 
