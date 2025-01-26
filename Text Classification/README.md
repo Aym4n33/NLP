@@ -30,7 +30,7 @@ This project implements a **Naive Bayes classifier** for text classification, de
 
 - **Train-Test Split**:
   - Training data: Used to calculate priors and likelihoods.
-  - Test data: Evaluated for model accuracy and metrics.
+  - Test data: Evaluated for model metrics.
 
 ---
 
